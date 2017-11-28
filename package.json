@@ -1,5 +1,7 @@
 {
   "name": "angular-database",
   "version": "0.0.1",
-  "dependencies": {}
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
 }
