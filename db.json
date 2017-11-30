@@ -1,47 +1,72 @@
-{
-  "blogs":
 
-[
-  {
-    "Category": "science",
-    "Title": "chemistry",
-    "Description": "It is branch of science that deals with elements and its changes.",
-    "id": 1,
-    "ratings": 4.5,
-    "username": "vish"
-  },
-  {
-    "UserName": "shely",
-    "Category": "technology",
-    "Title": "computer",
-    "Description": "An electronic device which run on our instructions.",
-    "Ratings": 3,
-    "id": 2
-  },
-  {
-    "UserName": "aryasharma",
-    "Category": "technology",
-    "Title": "Angular",
-    "Description": "It is framework of javascript.",
-    "Ratings": 1,
-    "id": 8
-  },
-  {
-    "Category": "arts",
-    "Title": "sanskrit",
-    "Description": "computer can understand sanskrit language.its easy language.",
-    "id": 9,
-    "ratings": 2.2,
-    "username": "ratan"
-  },
-  {
-    "UserName": "ankit",
-    "Category": "computers",
-    "Title": "Database",
-    "Description": "It manages data and its manipulation.",
-    "ratings": 3,
-    "id": 10
-  }
-]
+
+
+{
+  "blogs": [
+    {
+      "UserName": "vish",
+      "Category": "science",
+      "Title": "chemistry1",
+      "Description": "It is branch of science that deals with elements and its changes.",
+      "Ratings": 4.5,
+      "id": 1
+    },
+    {
+      "UserName": "shely",
+      "Category": "technology",
+      "Title": "computer",
+      "Description": "An electronic device which run on our instructions.",
+      "Ratings": 3,
+      "id": 2
+    },
+    {
+      "UserName": "aryasharma",
+      "Category": "technology",
+      "Title": "Angular",
+      "Description": "It is framework of javascript.",
+      "Ratings": 1,
+      "id": 8
+    },
+    {
+      "Category": "arts",
+      "Title": "sanskrit",
+      "Description": "computer can understand sanskrit language.its easy language.",
+      "id": 9,
+      "Ratings": 2.2,
+      "UserName": "ratan"
+    },
+    {
+      "UserName": "ankit",
+      "Category": "computers",
+      "Title": "Database",
+      "Description": "It manages data and its manipulation.",
+      "Ratings": 3,
+      "id": 10
+    },
+    {
+      "UserName": "Sample",
+      "Category": "sample",
+      "Title": "samplle",
+      "Description": "sampleasasasasasasasas",
+      "Ratings": 3,
+      "id": 11
+    },
+    {
+      "UserName": "aish",
+      "Category": "sports",
+      "Title": "cricket",
+      "Description": "fun to play.",
+      "Ratings": 3,
+      "id": 12
+    },
+    {
+      "UserName": "sakshi",
+      "Category": "Hindi",
+      "Title": "Mother-Language",
+      "Description": "Hindi is our mother-language.",
+      "Ratings": 3,
+      "id": 13
+    }
+  ]
 }
 
